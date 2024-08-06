@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi Potential Users
+
+Here is TomoATT community for modern trave time seismic tomography. Contact Prof. Tong Ping (tongping@ntu.edu.sg) to join in the community to access our code.
 
 <!--
 
