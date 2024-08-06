@@ -5,7 +5,7 @@ The TomoATT community focuses on modern travel-time seismic tomography. Interest
 Our team has provided:
 
 - **TomoATT**: Body wave adjoint-state traveltime tomography
-- **PyTomoATT** Python interface for TomoATT
+- **PyTomoATT**: Python interface for TomoATT
 
 <!--
 
