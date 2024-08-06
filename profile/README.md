@@ -1,7 +1,6 @@
 ## Hi Potential Users
 
-Here is TomoATT community for modern trave time seismic tomography. Contact Prof. Tong Ping (tongping@ntu.edu.sg) to join in the community to access our code.
-
+The TomoATT community focuses on modern travel-time seismic tomography. Interested individuals are encouraged to contact Professor Tong Ping at tongping@ntu.edu.sg to join the community and access our code.
 <!--
 
 **Here are some ideas to get you started:**
